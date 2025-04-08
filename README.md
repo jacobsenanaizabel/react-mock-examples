@@ -20,18 +20,16 @@ You'll find examples covering:
 💡 Useful patterns & test structures
 
 
-jest-enzyme-mocks/
-├── src/
-│   ├── components/       # React components
-│   └── __tests__/        # Jest + Enzyme test files
-├── __mocks__/            # Custom module mocks
-├── package.json
-└── README.md
+
+
 
 ⚙️ Getting Started
 
 git clone https://github.com/your-username/jest-enzyme-mocks.git
+
 cd jest-enzyme-mocks
+
 npm install
+
 npm test
 
